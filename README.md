@@ -1,9 +1,9 @@
 
 ## Title: How to run the model
 
-author: "Thanicha Chanchaidechachai (thanicha.c@outlook.co.th)"
-date: "20/08/2024"
-output: github_document
+author: Thanicha Chanchaidechachai (thanicha.c@outlook.co.th)
+20/08/2024 <br />
+
 
 
 
