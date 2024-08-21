@@ -5,9 +5,6 @@ date: "20/08/2024"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 This simulation model consists of two parts: (I) Cow simulation model under different hormone programs; (II) GHG emissions calculation. You need to run cow simulation and save the output from cows simulation model into CSV files. These CSV outputs will be used as an input for GHG calculation model.
 
