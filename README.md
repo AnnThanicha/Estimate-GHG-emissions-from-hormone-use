@@ -130,7 +130,7 @@ files = list.files(pattern="*.csv")
 ...
 ```
 
-The results will save in 4 lists as follows:
+The results will save in 3 lists as follows:
 <p>
 
 1)  output: save GHG emissions <br />
