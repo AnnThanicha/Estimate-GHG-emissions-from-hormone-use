@@ -104,9 +104,12 @@ For each scenarios, you can repeat the steps again. From running
 **“ProdMod_defaultParameters.R”** , setting a new CEVA_scen and running
 **“master_Analysis.R”**.
 
+
+
+
 ## GHG emissions calculation
 
-This R codes are link to the paper… Please check this paper for the
+This R codes are link to the paper (in review process, and will be updated later) Please check this paper for the
 detail of calculation.
 
 After you get all the outputs from cow simulation model in csv files.
