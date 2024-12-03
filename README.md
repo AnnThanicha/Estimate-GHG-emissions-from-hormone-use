@@ -109,7 +109,7 @@ For each scenarios, you can repeat the steps again. From running
 
 ## GHG emissions calculation
 
-This R codes for calculating GHG emissions in for a dairy herd. Please check **“Supplement S2 GHG calculation.wordx”** for the
+This R codes for calculating GHG emissions in for a dairy herd. Please check **“Supplement S2 GHG calculation.docx”** for the
 detail of calculation.
 
 After you get all the outputs from cow simulation model in csv files.
